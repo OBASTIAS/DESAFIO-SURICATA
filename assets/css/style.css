@@ -1,0 +1,53 @@
+body {
+    background: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-pink {
+    background-color: #E83E8C;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.logo-nav {
+    width: 132px;
+    height: 53px;
+}
+
+.container h1 {
+    color: #707070;
+}
+
+.background-card-footer {
+    background-color: #ffffff;
+}
+
+.logo-footer {
+    width: 53px;
+    height: 100px;
+}
+
+.pre-footer {
+    background-color: #17A2B8;
+    height: 132px;
+}
+
+.pre-footer-text-color {
+    color: #ffffff;
+}
+
+.fa-cc-mastercard,
+.fa-cc-visa,
+.fa-cc-amex,
+.fa-cc-diners-club,
+.fa-cc-paypal,
+.fa-cc-discover {
+    color: #ffffff;
+}
